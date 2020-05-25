@@ -13,4 +13,4 @@ This list is a work in progress and does and will not link to all possible resou
 
 [The Book](https://doc.rust-lang.org/stable/book/)
 
-Other resources, such as [the book for WebAssembly](https://rustwasm.github.io/docs/book/) are available
+Other resources, such as [the book for WebAssembly](https://rustwasm.github.io/docs/book/), are available

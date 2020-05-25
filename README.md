@@ -2,7 +2,7 @@
 
 This list is a work in progress and does and will not link to all possible resources.
 
-###Languages included so far
+### Languages included so far
 
 - [Rust](https://github.com/HoolaBoola/programming-language-tutorials/blob/master/README.md#rust)
 

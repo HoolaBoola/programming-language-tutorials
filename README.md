@@ -4,7 +4,7 @@ This list is a work in progress and does and will not link to all possible resou
 
 ### Languages included so far
 
-- [Rust](https://github.com/HoolaBoola/programming-language-tutorials/blob/master/README.md#rust)
+- [Rust](https://hoolaboola.github.io/programming-language-tutorials/#Rust)
 
 ### What next?
 

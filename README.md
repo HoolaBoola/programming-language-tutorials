@@ -2,6 +2,8 @@
 
 This list is a work in progress and does and will not link to all possible resources.
 
+Be sure to check [Learn X in Y minutes](https://learnxinyminutes.com/) for very short introductions to various programming languages!
+
 ### Languages included so far
 
 - [Rust](https://hoolaboola.github.io/programming-language-tutorials/#Rust)

@@ -8,6 +8,7 @@ Be sure to check [Learn X in Y minutes](https://learnxinyminutes.com/) out for v
 
 - [Rust](#rust)
 - [TypeScript](#typescript)
+- [Haskell](#haskell)
 
 ## Rust
 
@@ -18,5 +19,9 @@ Other resources, such as [the book for WebAssembly](https://rustwasm.github.io/d
 ## TypeScript
 
 [Chibicode](https://ts.chibicode.com/todo)
+
+## Haskell
+
+[Haskell MOOC](https://haskell.mooc.fi/)
 
 

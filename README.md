@@ -9,6 +9,7 @@ Be sure to check [Learn X in Y minutes](https://learnxinyminutes.com/) out for v
 - [Rust](#rust)
 - [TypeScript](#typescript)
 - [Haskell](#haskell)
+- [JavaScript](#javascript)
 
 ## Rust
 
@@ -23,5 +24,9 @@ Other resources, such as [the book for WebAssembly](https://rustwasm.github.io/d
 ## Haskell
 
 [Haskell MOOC](https://haskell.mooc.fi/)
+
+## JavaScript
+
+[The Modern JavaScript Tutorial](https://javascript.info/)
 
 
